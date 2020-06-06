@@ -1,0 +1,217 @@
+
+.test{
+	font-family: 'Mariad Pro',sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+	background: linear-gradient(to top, #828181 30%, #ffffff 60%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	color: #0B2349;
+	display: table;
+
+	text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.5)
+}
+
+
+.logo{
+	position: relative;
+	background-color: #5b6169;
+	height: 60px;
+	width: 100%;
+}
+.templ{
+	font-family: 'Mariad Pro',sans-serif;
+	font-size: 14px;
+	text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.5);
+	background: linear-gradient(to top,#828181 30%, #ffffff 60%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	color: #0B2349;
+	display: table;
+	font-weight: bold;
+
+}
+.header{
+	background: url("Layer 20.png") ; 
+	
+}
+li{
+	box-sizing: content-box;
+	-ms-flex: 0 1 auto;
+	width: 10px;
+	height: 10px;
+	margin-right: 2px;
+	background-color: rgb(54, 116, 186);
+	background-clip: padding-box;
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	opacity: .5;
+	transition: opacity 0.6s ease;
+	border-radius: 50%;
+
+}
+.carousel-indicators {
+
+	margin-right: 0%;
+	margin-left: 95%;
+}
+.slaid {
+	z-index: 10;
+	padding:10% 0%;
+	color: #fff;
+}
+h1{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 48px;
+		background-color:  #FFFFFF;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	color: #FFFFFF;
+	display: flex;
+align-items: flex-end;
+	line-height: 1.2;
+	font-weight: lighter;
+}
+p{
+	font-size: 18px;
+	font-family: 'Open Sans',sans-serif;
+	color: grey;
+}
+.knopka{
+	font-family: 'Open Sans',sans-serif;
+padding: 9px 45px;
+	font-size: 18px;
+	background: rgba(54, 116, 186, 0.5);
+	
+	-webkit-text-fill-color:  #FFFFFF; 
+	position: absolute;
+width: 173px;
+height: 43px;
+}
+
+.our_serv{
+	font-family: "Open Sans",sans-serif;
+	font-weight: lighter;
+	font-size: 48px;
+	align-items: flex-end;
+text-transform: uppercase;
+
+color: #5B6169;
+
+
+}
+.heading{
+	font-family: 'Open Sans',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #3674BA;
+
+}
+.text_head{
+	font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+}
+.knopka1{
+	font-family: 'Open Sans',sans-serif;
+	
+width: 130px;
+height: 33px;
+padding: 4px 35px;
+	font-size: 14px;
+	line-height: 19px;
+	background: #3674BA;
+
+	color: #FFFFFF; 
+	font-weight: 300;
+
+align-items: flex-end;
+}
+hr{
+	background-color:  #5B6169;
+	height: 1px;
+}
+.about{
+
+background: #D1D1D1;
+}
+.serv{
+	margin:35px auto;
+}
+.progress{
+	height: 33px;
+	
+	margin: 10px auto;
+}
+input{
+	width: 100%;
+	margin: 5px auto;
+}
+#send{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 14px;
+line-height: 19px;
+align-items: flex-end;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #3674BA;
+
+width: 95px;
+height: 33px;
+left: 368px;
+top: 360px;
+}
+h3{
+	font-family: 'MyriadPro',sans-serif;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: flex-end;
+
+}
+.t_text{
+
+
+width: 486px;
+height: 126px;
+l
+
+font-family: 'Arial',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+
+color: #4E4E4E;
+
+}
+#skill{
+	
+width: 102px;
+height: 33px;
+
+
+font-family: 'Open Sans',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-transform: uppercase;
+
+color: #3674BA;
+
+}
